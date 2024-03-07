@@ -68,13 +68,6 @@ Takes student roll no and delete his/her info. from database.
 ![FastAPI - Docs](https://github.com/vikramsamak/Student-Mangaement-System-FastAPI---MangoDB-CRUD-Application-/blob/2ea6b7277afbbee42d98851b2bff3fef72a754cc/FastAPI%20-Docs.png)
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at vikramsamak02@gmail.com
-## Authors
-
--[@Vikram Samak]https://github.com/vikramsamak)
--[@Abhimanyu Sharma]https://github.com/0xN1nja
 
 
 
